@@ -1,9 +1,10 @@
 
 body {
   background: url("Broken Chains.jpg");
- background-size:100% 100%;
-  color:white;
-  font-size:20px;
+ height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
    }
    p
   {
