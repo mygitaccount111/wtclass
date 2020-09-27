@@ -2,7 +2,7 @@ body {
   background: url("ngt.jfif");
  height: 100%;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
    }
    p
