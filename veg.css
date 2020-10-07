@@ -1,11 +1,9 @@
 
   
-#pictures {
+body {
   background: url("veg.jfif");
-  background-size: 80px 60px;
+  height: 100%;
+  background-position: center;
   background-repeat: no-repeat;
-  padding-top: 40px;
-
-
-
+  background-size: cover;
 }
