@@ -1,8 +1,7 @@
-body
-{
-  background: url("bl.jfif");
-  height: 100%;
-  background-position: center;
-  back-ground-size: cover;
-  backrepeat: no-repeat;
-  }
+body {
+  background: url(bl.jfif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
