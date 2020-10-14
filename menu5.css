@@ -106,7 +106,29 @@ background-size: cover;
   height: 100%;
   width: 100%;			
   box-shadow: 0 0 50px rgba(0, 0, 0, .9);			
+}
+.menu li:hover {
+  background: #e74c3c;
 }		
+
+.menu > li > a {
+  transform: skewX(-25deg);
+  padding: 1em 2em;
+}
+.submenu li > a > i{
+   position: absolute;
+  width: 200px;
+  left: 50%; margin-left: -100px;
+  transform: skewX(-25deg);
+  transform-origin: left top;
+  background-color: #34495e;
+  position: relative;
+  overflow: hidden;		
+}
+.submenu > li > a {
+
+  padding: 1em 2em;			
+}
 
 /* Odd stuff */
 .submenu > li:nth-child(odd){
