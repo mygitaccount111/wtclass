@@ -115,7 +115,11 @@ background-size: cover;
   transform: skewX(-25deg);
   padding: 1em 2em;
 }
-.submenu li > a > i{
+.menu > li > a {
+  transform: skewX(-25deg);
+  padding: 1em 2em;
+}
+.submenu li > a > 
    position: absolute;
   width: 200px;
   left: 50%; margin-left: -100px;
