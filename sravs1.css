@@ -1,12 +1,12 @@
 body{
     background: url("sravs (2).jpg") no-repeat;
-    background-size:100% 100vh;
+    background-size:75% 75vh;
     text-align: center;
     margin: 0;
 }
 
 .a{
-    height: 85px;
+    height:65px;
     background-color: rgba(0, 0, 0, 0.2);
 }
 
